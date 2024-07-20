@@ -17,7 +17,7 @@ For now, you will need to modify the script directly for certain attributes like
 
 ### `update_info`
 
-Update's media info on the screen with `current` and `next`, font attributes are hard-coded in the script.
+Updates media info on the screen from `current` and `next`, font attributes are hard-coded in the script.
 
 ## Todo
 
