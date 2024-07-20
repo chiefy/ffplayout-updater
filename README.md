@@ -2,6 +2,8 @@
 
 Simple script to update [ffplayout](https://github.com/ffplayout/ffplayout) output with now playing info.
 
+<img width="502" alt="ffplayout-updater-example" src="https://github.com/user-attachments/assets/4bf56ef3-f4ff-478f-b754-20e39d01db91">
+
 ```
  Usage:
  update.sh [command] [api-token] <jsonrpc-host> <jsonrpc-port> <media-regex>
