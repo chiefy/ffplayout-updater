@@ -21,6 +21,6 @@ Updates media info on the screen from `current` and `next`, font attributes are 
 
 ## Todo
 
-[-] Figure out if RPC can take a dynamic font
-[-] Display text periodically / on schedule
-[-] Include systemd units to install on server
+- [ ] Figure out if RPC can take a dynamic font
+- [ ] Display text periodically / on schedule
+- [ ] Include systemd units to install on server
